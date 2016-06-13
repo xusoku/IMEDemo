@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/davis/Desktop/MYIme1/app/build/intermediates/res/merged/debug/xml/symbols_shift.xml",
+        "source": "/Users/davis/Desktop/MYIme1/app/src/main/res/xml/symbols_shift.xml"
+    },
+    {
+        "merged": "/Users/davis/Desktop/MYIme1/app/build/intermediates/res/merged/debug/xml/method.xml",
+        "source": "/Users/davis/Desktop/MYIme1/app/src/main/res/xml/method.xml"
+    },
+    {
+        "merged": "/Users/davis/Desktop/MYIme1/app/build/intermediates/res/merged/debug/xml/ime_preferences.xml",
+        "source": "/Users/davis/Desktop/MYIme1/app/src/main/res/xml/ime_preferences.xml"
+    },
+    {
+        "merged": "/Users/davis/Desktop/MYIme1/app/build/intermediates/res/merged/debug/xml/qwerty.xml",
+        "source": "/Users/davis/Desktop/MYIme1/app/src/main/res/xml/qwerty.xml"
+    },
+    {
+        "merged": "/Users/davis/Desktop/MYIme1/app/build/intermediates/res/merged/debug/xml/symbols.xml",
+        "source": "/Users/davis/Desktop/MYIme1/app/src/main/res/xml/symbols.xml"
+    }
+]
